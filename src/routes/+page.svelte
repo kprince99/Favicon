@@ -106,7 +106,7 @@
     <div class = "head_part">
       <h2>FAVICON GENERATOR</h2>
       <p class = "para">
-         Quickly generate your favicon from text,<br /> image, or choose from hundreds of emojis.</p>
+         Quickl generate your favicon from text,<br /> image, or choose from hundreds of emojis.</p>
     </div>
   </div>
 
